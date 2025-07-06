@@ -1,10 +1,6 @@
 # DeepSeekR1_ChatApp
 
-pip install streamlit
-pip install --upgrade langchain langchain-community 
-
-#### Provides access to the ollama models.
-pip install -U langchain-ollama
+DeepSeekR1 powered Chat app
 	
 
 
